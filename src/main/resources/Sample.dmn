@@ -298,7 +298,7 @@ else "Insufficient"</dmn:text>
           <dmn:text>&gt;= 750</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_A1FF2B2D-EF34-42AD-A45A-5FFDFA21FA6D">
-          <dmn:text>"Excellent"</dmn:text>
+          <dmn:text>"Good"</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
